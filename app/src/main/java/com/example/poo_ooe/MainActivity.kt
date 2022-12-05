@@ -160,7 +160,6 @@ class MainActivity : AppCompatActivity() {
         var etWaterName = findViewById<EditText>(R.id.etWaterName)
         var etWaterAttackPower = findViewById<EditText>(R.id.etWaterAttackPower)
         var etWaterMaxResistance = findViewById<EditText>(R.id.etWaterMaxResistence)
-
         
         waterPok = Waterpokemon()
 
